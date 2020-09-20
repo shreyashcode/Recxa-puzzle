@@ -1,8 +1,7 @@
 # Recxa puzzel
 <div class="text">
 <pre>
-App is a game based on a standard "Dynamic programming" problem 'Gold mine'. The users needs to maximize the score under the given constraint. The app gives a proper warning for any invalid selection.
-User can get hint, reset the selection at any moment. The range of number increases at each level.
+App is a game based on a standard "Dynamic programming" problem 'Gold mine'. The users needs to maximize the score under the given constraint. The app gives a proper warning for any invalid selection.User can get hint, reset the selection at any moment. The range of number increases at each level.
 </pre>
 <i float = "left">
 <img src = "images/IMG_20200920_200637.jpg" width="150"/>
