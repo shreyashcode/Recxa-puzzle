@@ -8,6 +8,5 @@ App is a game based on a standard "Dynamic programming" problem 'Gold mine'. The
 </pre>
 <img src = "images/IMG_20200920_200657.jpg" width = "150"/>
 <img src = "images/IMG_20200920_200715.jpg" width = "150"/>
-<img src = "images/IMG_20200920_200727.jpg" width = "150"/>
 </i>
 </div>
