@@ -7,4 +7,7 @@ App is a game based on a standard "Dynamic programming" problem 'Gold mine'. The
 <img src = "images/IMG_20200920_200657.jpg" width = "191"/>
 <img src = "images/IMG_20200920_200715.jpg" width = "191"/>
 </i>
+  
+From current cell it's valid to **go right** or to **downward diagonally**
+  
 </div>
